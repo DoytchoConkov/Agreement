@@ -1,0 +1,27 @@
+{
+  "name": "Agreement 15/05/2021",
+  "signedBy": "Doytcho",
+  "products": [
+    {
+      "products": [
+        {
+          "products": [],
+          "name": "dough",
+          "price": 2.56
+        },
+        {
+          "products": [],
+          "name": "tomato puree",
+          "price": 1.06
+        },
+        {
+          "products": [],
+          "name": "cheese",
+          "price": 1.22
+        }
+      ],
+      "name": "Pizza",
+      "price": 10.3
+    }
+  ]
+}
